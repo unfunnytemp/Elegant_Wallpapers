@@ -1,4 +1,8 @@
 {
   "name": "Elegant",
-  "displayName": "Elegant"
+  "displayName": "Elegant",
+"react-native-google-mobile-ads": {
+     "android_app_id": "ca-app-pub-xxxxxxxxxxxxxxx",
+    "ios_app_id": "ca-app-pub-xxxxxxxxxx"
+  }
 }
